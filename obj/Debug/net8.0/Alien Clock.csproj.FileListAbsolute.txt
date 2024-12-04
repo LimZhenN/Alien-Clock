@@ -1,0 +1,14 @@
+/Users/zhen.n/Documents/GitHub/Alien Clock/bin/Debug/net8.0/Alien Clock
+/Users/zhen.n/Documents/GitHub/Alien Clock/bin/Debug/net8.0/Alien Clock.deps.json
+/Users/zhen.n/Documents/GitHub/Alien Clock/bin/Debug/net8.0/Alien Clock.runtimeconfig.json
+/Users/zhen.n/Documents/GitHub/Alien Clock/bin/Debug/net8.0/Alien Clock.dll
+/Users/zhen.n/Documents/GitHub/Alien Clock/bin/Debug/net8.0/Alien Clock.pdb
+/Users/zhen.n/Documents/GitHub/Alien Clock/obj/Debug/net8.0/Alien Clock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhen.n/Documents/GitHub/Alien Clock/obj/Debug/net8.0/Alien Clock.AssemblyInfoInputs.cache
+/Users/zhen.n/Documents/GitHub/Alien Clock/obj/Debug/net8.0/Alien Clock.AssemblyInfo.cs
+/Users/zhen.n/Documents/GitHub/Alien Clock/obj/Debug/net8.0/Alien Clock.csproj.CoreCompileInputs.cache
+/Users/zhen.n/Documents/GitHub/Alien Clock/obj/Debug/net8.0/Alien Clock.dll
+/Users/zhen.n/Documents/GitHub/Alien Clock/obj/Debug/net8.0/refint/Alien Clock.dll
+/Users/zhen.n/Documents/GitHub/Alien Clock/obj/Debug/net8.0/Alien Clock.pdb
+/Users/zhen.n/Documents/GitHub/Alien Clock/obj/Debug/net8.0/Alien Clock.genruntimeconfig.cache
+/Users/zhen.n/Documents/GitHub/Alien Clock/obj/Debug/net8.0/ref/Alien Clock.dll
