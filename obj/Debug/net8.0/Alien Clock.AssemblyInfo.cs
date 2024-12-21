@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alien Clock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55bba117b872d44d5337ca051e379adf9d743f5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alien Clock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alien Clock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
